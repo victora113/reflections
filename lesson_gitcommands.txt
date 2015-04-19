@@ -1,0 +1,5 @@
+
+git init -- creates git repository.
+git add -- adds file to staging area.
+git commit -- comits file changes in staging area.
+

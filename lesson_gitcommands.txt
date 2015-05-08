@@ -2,4 +2,10 @@
 git init -- creates git repository.
 git add -- adds file to staging area.
 git commit -- comits file changes in staging area.
+git commit -m "<message>" -- saves git commit with a message written from command line. *TRY TO ALWAYS USE THIS*
 
+git branch -- shows you the current branch
+git branch *new branchname* -- creates new branch
+
+You can use git checkout to switch branches.
+Use branches for stuff you want to add without affecting the main source code. 
